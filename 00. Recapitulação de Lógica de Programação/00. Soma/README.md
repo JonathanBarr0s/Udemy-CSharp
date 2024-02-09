@@ -1,31 +1,47 @@
-# Exercício - Saída de Dados
+# Exercício - Soma
 
-Em um novo programa, inicie as seguintes variáveis:
+Faça um programa para ler dois valores inteiros, e depois mostrar na tela a soma desses números com uma
+mensagem explicativa, conforme exemplos.
 
-```
-String product1 = "Computer";
-String product2 = "Office desk";
-int age = 30;
-int code = 5290;
-char gender = 'F';
-double price1 = 2100.0;
-double price2 = 650.50;
-double measure = 53.234567;
-```
-
-Em seguida, usando os valores das variáveis, produza a seguinte saída na tela do console:
+### Exemplo de Entrada:
 
 ```
-Products:
-Computer, which price is $ 2100,00
-Office desk, which price is $ 650,50
-
-Record: 30 years old, code 5290 and gender: F
-
-Measue with eight decimal places: 53,23456700
-Rouded (three decimal places): 53,235
-US decimal point: 53.235
+10
+30
 ```
+
+### Exemplo de Saída:
+
+```
+SOMA = 40
+```
+
+### Exemplo de Entrada:
+
+```
+-30
+10
+```
+
+### Exemplo de Saída:
+
+```
+SOMA = -20
+```
+
+### Exemplo de Entrada:
+
+```
+0
+0
+```
+
+### Exemplo de Saída:
+
+```
+SOMA = 0
+```
+
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java/Primeiro_Programa/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/00.%20Soma/Soma/Soma/Program.cs) minha resposta.
