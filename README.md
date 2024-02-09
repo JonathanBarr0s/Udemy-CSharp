@@ -35,37 +35,37 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Soma</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/00.%20Soma">Código</a></td>
             <td align="center">C#</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Criar um programa que lerá dois valores inteiros e mostrará a soma deles na tela com uma mensagem explicativa.</td>
         </tr>
         <tr>
             <td align="center">Área do Círculo</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
             <td align="center">C#</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Desenvolver um programa que calculará e exibirá a área de um círculo com base no raio fornecido, usando a fórmula A = π . raio².</td>
         </tr>
         <tr>
             <td align="center">Diferença</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Diferen%C3%A7a">Código</a></td>
             <td align="center">C#</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Criar um programa que leia 4 inteiros (A, B, C, D) e calcule a diferença entre o produto de A e B e o produto de C e D (DIFERENCA = A * B - C * D).</td>
         </tr>
         <tr>
             <td align="center">Salário do Funcionário</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/03.%20Sal%C3%A1rio%20do%20Funcion%C3%A1rio">Código</a></td>
             <td align="center">C#</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Calcular o salário de um funcionário com base em horas trabalhadas e valor por hora. O programa lerá os dados e exibirá o número do funcionário e seu salário.</td>
         </tr>
         <tr>
             <td align="center">Cálculo do Valor</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/04.%20C%C3%A1lculo%20do%20Valor">Código</a></td>
             <td align="center">C#</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Ler dados de duas peças, calcular o valor total a pagar multiplicando as quantidades pelo preço unitário de cada uma e exibir o resultado.</td>
         </tr>
         <tr>
             <td align="center">Cálculo de Área</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/05.%20C%C3%A1lculo%20de%20%C3%81rea">Código</a></td>
             <td align="center">C#</td>
-            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+            <td>Calcular e exibir áreas de figuras geométricas a partir de valores dados. Serão calculadas áreas de triângulo, círculo, trapézio, quadrado e retângulo com base nos valores fornecidos.</td>
         </tr>
         </table>
 </div>
