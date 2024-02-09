@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\bin\Debug\net6.0\SalarioDoFuncionario.exe
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\bin\Debug\net6.0\SalarioDoFuncionario.deps.json
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\bin\Debug\net6.0\SalarioDoFuncionario.runtimeconfig.json
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\bin\Debug\net6.0\SalarioDoFuncionario.dll
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\bin\Debug\net6.0\SalarioDoFuncionario.pdb
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.AssemblyInfo.cs
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.dll
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\refint\SalarioDoFuncionario.dll
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.pdb
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\SalarioDoFuncionario.genruntimeconfig.cache
+D:\Programação\Visual Studio\SalarioDoFuncionario\SalarioDoFuncionario\obj\Debug\net6.0\ref\SalarioDoFuncionario.dll

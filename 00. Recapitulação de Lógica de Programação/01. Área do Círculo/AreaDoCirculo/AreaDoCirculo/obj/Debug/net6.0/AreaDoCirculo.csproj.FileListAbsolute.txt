@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.exe
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.deps.json
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.runtimeconfig.json
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.dll
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\bin\Debug\net6.0\AreaDoCirculo.pdb
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.AssemblyInfo.cs
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.dll
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\refint\AreaDoCirculo.dll
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.pdb
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\AreaDoCirculo.genruntimeconfig.cache
+D:\Programação\Visual Studio\AreaDoCirculo\AreaDoCirculo\obj\Debug\net6.0\ref\AreaDoCirculo.dll

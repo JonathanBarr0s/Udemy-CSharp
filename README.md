@@ -23,7 +23,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <th colspan="4">Exercícios</th>
         </tr>
         <tr>
-            <th colspan="4">Estrutura Sequencial</th>
+            <th colspan="4">Recapitulação de Lógica de Programação</th>
         </tr>
         <tr>
             <th>Exercício</th>
@@ -32,9 +32,39 @@ Aqui estão todas as atividades que realizei durante o curso:
             <th>Descrição</th>
         </tr>
         <tr>
-            <td align="center">Saída de Dados em Java</td>
+            <td align="center">Soma</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
-            <td align="center">Java</td>
+            <td align="center">C#</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Área do Círculo</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
+            <td align="center">C#</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Diferença</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
+            <td align="center">C#</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Salário do Funcionário</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
+            <td align="center">C#</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Cálculo do Valor</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
+            <td align="center">C#</td>
+            <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
+        </tr>
+        <tr>
+            <td align="center">Cálculo de Área</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-Java/tree/main/Se%C3%A7%C3%A3o%2004%20-%20Estrutura%20Sequencial/01.%20Sa%C3%ADda%20de%20Dados%20em%20Java">Código</a></td>
+            <td align="center">C#</td>
             <td>Utilizar variáveis para imprimir dados formatados sobre produtos, idade, código, gênero e medidas.</td>
         </tr>
         </table>

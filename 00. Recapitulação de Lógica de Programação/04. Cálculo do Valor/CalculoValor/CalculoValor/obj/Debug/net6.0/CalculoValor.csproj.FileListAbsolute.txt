@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\bin\Debug\net6.0\CalculoValor.exe
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\bin\Debug\net6.0\CalculoValor.deps.json
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\bin\Debug\net6.0\CalculoValor.runtimeconfig.json
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\bin\Debug\net6.0\CalculoValor.dll
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\bin\Debug\net6.0\CalculoValor.pdb
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.AssemblyInfo.cs
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.dll
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\refint\CalculoValor.dll
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.pdb
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\CalculoValor.genruntimeconfig.cache
+D:\Programação\Visual Studio\CalculoValor\CalculoValor\obj\Debug\net6.0\ref\CalculoValor.dll
