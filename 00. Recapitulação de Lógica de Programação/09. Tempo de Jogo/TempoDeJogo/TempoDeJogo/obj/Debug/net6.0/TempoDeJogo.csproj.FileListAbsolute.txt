@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.exe
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.deps.json
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.runtimeconfig.json
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.dll
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\bin\Debug\net6.0\TempoDeJogo.pdb
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.AssemblyInfo.cs
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.dll
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\refint\TempoDeJogo.dll
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.pdb
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\TempoDeJogo.genruntimeconfig.cache
+D:\Programação\Visual Studio\TempoDeJogo\TempoDeJogo\obj\Debug\net6.0\ref\TempoDeJogo.dll

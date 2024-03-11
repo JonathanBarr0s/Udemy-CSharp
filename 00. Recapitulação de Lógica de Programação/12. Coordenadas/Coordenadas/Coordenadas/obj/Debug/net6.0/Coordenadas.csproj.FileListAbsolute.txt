@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.exe
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.deps.json
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.runtimeconfig.json
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.dll
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\bin\Debug\net6.0\Coordenadas.pdb
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.AssemblyInfo.cs
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.dll
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\refint\Coordenadas.dll
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.pdb
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\Coordenadas.genruntimeconfig.cache
+D:\Programação\Visual Studio\Coordenadas\Coordenadas\obj\Debug\net6.0\ref\Coordenadas.dll

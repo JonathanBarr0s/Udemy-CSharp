@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\bin\Debug\net6.0\SaoMultiplosOuNao.exe
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\bin\Debug\net6.0\SaoMultiplosOuNao.deps.json
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\bin\Debug\net6.0\SaoMultiplosOuNao.runtimeconfig.json
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\bin\Debug\net6.0\SaoMultiplosOuNao.dll
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\bin\Debug\net6.0\SaoMultiplosOuNao.pdb
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.AssemblyInfo.cs
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.dll
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\refint\SaoMultiplosOuNao.dll
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.pdb
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\SaoMultiplosOuNao.genruntimeconfig.cache
+D:\Programação\Visual Studio\SaoMultiplosOuNao\SaoMultiplosOuNao\obj\Debug\net6.0\ref\SaoMultiplosOuNao.dll
