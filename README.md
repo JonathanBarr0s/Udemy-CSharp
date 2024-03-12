@@ -109,5 +109,11 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Criar um programa que identificará a posição de um ponto no plano cartesiano. Ele lê duas coordenadas (x, y) e determina se está na origem, sobre um eixo (X ou Y) ou em um dos quadrantes.</td>
         </tr>
+        <tr>
+            <td align="center">Calculando Imposto</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/13.%20Imposto%20de%20Renda">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que calculará o imposto de renda de acordo com a tabela de alíquotas em Lisarb, baseado no salário informado, exibindo o valor a pagar com duas casas decimais.</td>
+        </tr>
         </table>
 </div>
