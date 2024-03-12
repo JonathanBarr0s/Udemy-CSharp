@@ -115,5 +115,23 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Criar um programa que calculará o imposto de renda de acordo com a tabela de alíquotas em Lisarb, baseado no salário informado, exibindo o valor a pagar com duas casas decimais.</td>
         </tr>
+        <tr>
+            <td align="center">Senha Inválida</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/14.%20Senha%20Inv%C3%A1lida">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que repetirá a leitura da senha até ser válida. Para cada tentativa incorreta, exibir "Senha Inválida". Ao acertar, mostrar "Acesso Permitido" e encerrar o algoritmo.</td>
+        </tr>
+        <tr>
+            <td align="center">Coordenadas</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/15.%20Coordenadas">Código</a></td>
+            <td align="center">C#</td>
+            <td>O exercício prevê a leitura das coordenadas (X,Y) de pontos e determina em qual quadrante estão localizados. O algoritmo será encerrado quando uma coordenada for nula.</td>
+        </tr>
+        <tr>
+            <td align="center">Pesquisa de Satisfação</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/16.%20Pesquisa%20de%20Satisfa%C3%A7%C3%A3o">Código</a></td>
+            <td align="center">C#</td>
+            <td>O programa determinará a preferência do cliente por tipos de combustível. Solicitará códigos, contará e exibirá a quantidade de cada tipo, encerrando ao inserir o código "4".</td>
+        </tr>
         </table>
 </div>
