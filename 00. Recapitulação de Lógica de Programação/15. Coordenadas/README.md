@@ -23,4 +23,4 @@ segundo
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/02.%20Coordenadas/Coordenadas/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/15.%20Coordenadas/SistemaCartesiano/SistemaCartesiano/Program.cs) minha resposta.

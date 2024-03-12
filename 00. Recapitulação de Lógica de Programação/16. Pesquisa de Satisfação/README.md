@@ -24,4 +24,4 @@ Diesel: 0
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/03.%20Pesquisa%20de%20Satisfa%C3%A7%C3%A3o/PesquisaDeSatisfacao/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/16.%20Pesquisa%20de%20Satisfa%C3%A7%C3%A3o/PesquisaProduto/PesquisaProduto/Program.cs) minha resposta.
