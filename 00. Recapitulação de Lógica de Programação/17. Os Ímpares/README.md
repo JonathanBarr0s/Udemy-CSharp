@@ -19,4 +19,4 @@ Leia um valor inteiro X (1 <= X <= 1000). Em seguida mostre os Ã­mpares de 1 atÃ
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/04.%20Os%20%C3%8Dmpares/OsImpares/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/17.%20Os%20%C3%8Dmpares/NumerosImpares/NumerosImpares/Program.cs) minha resposta.
