@@ -145,5 +145,35 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>O programa deverá mostrar os números ímpares de 1 a X, com X dado pelo usuário (1 <= X <= 1000). Serão exibidos os ímpares de 1 até X, um por linha.</td>
         </tr>
+        <tr>
+            <td align="center">Faz Parte Ou Não</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/18.%20Faz%20Parte%20Ou%20N%C3%A3o">Código</a></td>
+            <td align="center">C#</td>
+            <td>O programa verificará quantos valores estão dentro e fora do intervalo [10,20], exibindo os totais conforme exemplo.</td>
+        </tr>
+        <tr>
+            <td align="center">Divisão Em Sequência</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/19.%20Divis%C3%A3o%20Em%20Sequ%C3%AAncia">Código</a></td>
+            <td align="center">C#</td>
+            <td>O programa lerá um número N e, em seguida, N pares de números para realizar divisões. Se o denominador for zero, exibirá "divisão impossível".</td>
+        </tr>
+        <tr>
+            <td align="center">Fatorial</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/20.%20Fatorial">Código</a></td>
+            <td align="center">C#</td>
+            <td>O programa calculará o fatorial de um número N fornecido pelo usuário.</td>
+        </tr>
+        <tr>
+            <td align="center">Divisor</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/21.%20Divisor">Código</a></td>
+            <td align="center">C#</td>
+            <td>O programa calculará e exibirá os divisores do número inteiro N.</td>
+        </tr>
+        <tr>
+            <td align="center">Testes de Matemática</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/22.%20Testes%20de%20Matem%C3%A1tica">Código</a></td>
+            <td align="center">C#</td>
+            <td>	O programa irá gerar N linhas, exibindo o número da linha, seguido do quadrado e do cubo desse valor.</td>
+        </tr>
         </table>
 </div>
