@@ -20,10 +20,10 @@ Aqui estão todas as atividades que realizei durante o curso:
     <br>
     <table>
         <tr>
-            <th colspan="4">Exercícios</th>
+            <th colspan="4">Recapitulação de Lógica de Programação</th>
         </tr>
         <tr>
-            <th colspan="4">Recapitulação de Lógica de Programação</th>
+            <th colspan="4">Estrutura Sequencial</th>
         </tr>
         <tr>
             <th>Exercício</th>
@@ -66,6 +66,9 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/05.%20C%C3%A1lculo%20de%20%C3%81rea">Código</a></td>
             <td align="center">C#</td>
             <td>Calcular e exibir áreas de figuras geométricas a partir de valores dados. Serão calculadas áreas de triângulo, círculo, trapézio, quadrado e retângulo com base nos valores fornecidos.</td>
+        </tr>
+        <tr>
+            <th colspan="4">Estrutura Condicional</th>
         </tr>
         <tr>
             <td align="center">Positivo Ou Negativo</td>
@@ -114,6 +117,9 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/13.%20Imposto%20de%20Renda">Código</a></td>
             <td align="center">C#</td>
             <td>Criar um programa que calculará o imposto de renda de acordo com a tabela de alíquotas em Lisarb, baseado no salário informado, exibindo o valor a pagar com duas casas decimais.</td>
+        </tr>
+        <tr>
+            <th colspan="4">Estruturas Repetitivas</th>
         </tr>
         <tr>
             <td align="center">Senha Inválida</td>
