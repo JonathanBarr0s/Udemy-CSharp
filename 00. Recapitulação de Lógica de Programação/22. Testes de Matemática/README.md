@@ -20,4 +20,4 @@ Fazer um programa para ler um número inteiro positivo N. O programa deve então
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-Java/blob/main/Se%C3%A7%C3%A3o%2006%20-%20Estruturas%20Repetitivas/10.%20Testes%20de%20Matem%C3%A1tica/TestesDeMatematica/src/Main.java) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/22.%20Testes%20de%20Matem%C3%A1tica/TestesDeMatematica/TestesDeMatematica/Program.cs) minha resposta.
