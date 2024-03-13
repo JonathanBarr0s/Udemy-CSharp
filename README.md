@@ -133,5 +133,11 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>O programa determinará a preferência do cliente por tipos de combustível. Solicitará códigos, contará e exibirá a quantidade de cada tipo, encerrando ao inserir o código "4".</td>
         </tr>
+        <tr>
+            <td align="center">Os Ímpares</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/17.%20Os%20%C3%8Dmpares">Código</a></td>
+            <td align="center">C#</td>
+            <td>O programa deverá mostrar os números ímpares de 1 a X, com X dado pelo usuário (1 <= X <= 1000). Serão exibidos os ímpares de 1 até X, um por linha.</td>
+        </tr>
         </table>
 </div>
