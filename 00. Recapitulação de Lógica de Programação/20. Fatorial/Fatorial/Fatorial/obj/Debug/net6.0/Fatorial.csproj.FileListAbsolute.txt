@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.exe
+D:\Programação\Visual Studio\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.deps.json
+D:\Programação\Visual Studio\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.runtimeconfig.json
+D:\Programação\Visual Studio\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.dll
+D:\Programação\Visual Studio\Fatorial\Fatorial\bin\Debug\net6.0\Fatorial.pdb
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.AssemblyInfo.cs
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.dll
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\refint\Fatorial.dll
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.pdb
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\Fatorial.genruntimeconfig.cache
+D:\Programação\Visual Studio\Fatorial\Fatorial\obj\Debug\net6.0\ref\Fatorial.dll

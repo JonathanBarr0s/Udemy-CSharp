@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\bin\Debug\net6.0\FazParteOuNao.exe
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\bin\Debug\net6.0\FazParteOuNao.deps.json
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\bin\Debug\net6.0\FazParteOuNao.runtimeconfig.json
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\bin\Debug\net6.0\FazParteOuNao.dll
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\bin\Debug\net6.0\FazParteOuNao.pdb
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.AssemblyInfo.cs
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.dll
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\refint\FazParteOuNao.dll
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.pdb
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\FazParteOuNao.genruntimeconfig.cache
+D:\Programação\Visual Studio\FazParteOuNao\FazParteOuNao\obj\Debug\net6.0\ref\FazParteOuNao.dll

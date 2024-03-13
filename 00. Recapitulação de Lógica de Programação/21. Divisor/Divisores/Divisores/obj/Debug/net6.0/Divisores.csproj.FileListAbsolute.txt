@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\Divisores\Divisores\bin\Debug\net6.0\Divisores.exe
+D:\Programação\Visual Studio\Divisores\Divisores\bin\Debug\net6.0\Divisores.deps.json
+D:\Programação\Visual Studio\Divisores\Divisores\bin\Debug\net6.0\Divisores.runtimeconfig.json
+D:\Programação\Visual Studio\Divisores\Divisores\bin\Debug\net6.0\Divisores.dll
+D:\Programação\Visual Studio\Divisores\Divisores\bin\Debug\net6.0\Divisores.pdb
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.AssemblyInfo.cs
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.dll
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\refint\Divisores.dll
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.pdb
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\Divisores.genruntimeconfig.cache
+D:\Programação\Visual Studio\Divisores\Divisores\obj\Debug\net6.0\ref\Divisores.dll

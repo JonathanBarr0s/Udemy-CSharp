@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\bin\Debug\net6.0\DivisaoEmSequencia.exe
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\bin\Debug\net6.0\DivisaoEmSequencia.deps.json
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\bin\Debug\net6.0\DivisaoEmSequencia.runtimeconfig.json
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\bin\Debug\net6.0\DivisaoEmSequencia.dll
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\bin\Debug\net6.0\DivisaoEmSequencia.pdb
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.AssemblyInfo.cs
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.dll
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\refint\DivisaoEmSequencia.dll
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.pdb
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\DivisaoEmSequencia.genruntimeconfig.cache
+D:\Programação\Visual Studio\DivisaoEmSequencia\DivisaoEmSequencia\obj\Debug\net6.0\ref\DivisaoEmSequencia.dll

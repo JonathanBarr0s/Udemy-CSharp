@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\bin\Debug\net6.0\TestesDeMatematica.exe
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\bin\Debug\net6.0\TestesDeMatematica.deps.json
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\bin\Debug\net6.0\TestesDeMatematica.runtimeconfig.json
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\bin\Debug\net6.0\TestesDeMatematica.dll
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\bin\Debug\net6.0\TestesDeMatematica.pdb
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.AssemblyInfo.cs
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.dll
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\refint\TestesDeMatematica.dll
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.pdb
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\TestesDeMatematica.genruntimeconfig.cache
+D:\Programação\Visual Studio\TestesDeMatematica\TestesDeMatematica\obj\Debug\net6.0\ref\TestesDeMatematica.dll

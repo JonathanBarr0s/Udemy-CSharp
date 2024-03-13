@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestesDeMatematica/1.0.0": {
+        "runtime": {
+          "TestesDeMatematica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestesDeMatematica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
