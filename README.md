@@ -175,5 +175,36 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>	O programa irá gerar N linhas, exibindo o número da linha, seguido do quadrado e do cubo desse valor.</td>
         </tr>
-        </table>
+  </table>
+
+<div align="center">
+    <br>
+    <table>
+        <tr>
+            <th colspan="4">Introdução à Programação Orientada a Objetos</th>
+        </tr>
+        <tr>
+            <th colspan="4">Classes</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Soma</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/00.%20Soma">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que lerá dois valores inteiros e mostrará a soma deles na tela com uma mensagem explicativa.</td>
+        </tr>
+        <tr>
+            <td align="center">Área do Círculo</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20%C3%81rea%20do%20C%C3%ADrculo">Código</a></td>
+            <td align="center">C#</td>
+            <td>Desenvolver um programa que calculará e exibirá a área de um círculo com base no raio fornecido, usando a fórmula A = π . raio².</td>
+        </tr>
+  </table>
+
+
 </div>
