@@ -184,7 +184,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <th colspan="4">Introdução à Programação Orientada a Objetos</th>
         </tr>
         <tr>
-            <th colspan="4">Classes</th>
+            <th colspan="4">Classes, Atributos, Métodos e Membros Estáticos</th>
         </tr>
         <tr>
             <th>Exercício</th>
