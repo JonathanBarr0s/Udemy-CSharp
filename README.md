@@ -198,7 +198,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais velha.</td>
         </tr>
+        <tr>
+            <td align="center">Salário Médio</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Sal%C3%A1rio%20M%C3%A9dio">Código</a></td>
+            <td align="center">C#</td>
+            <td>Fazer um programa para ler nome e salário de dois funcionários. Depois, mostrar o salário médio dos funcionários.</td>
+        </tr>
   </table>
-
 
 </div>
