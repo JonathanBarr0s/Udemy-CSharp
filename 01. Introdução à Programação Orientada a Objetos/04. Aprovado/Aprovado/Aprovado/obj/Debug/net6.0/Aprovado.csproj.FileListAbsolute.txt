@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\Aprovado\Aprovado\bin\Debug\net6.0\Aprovado.exe
+D:\Programação\Visual Studio\Aprovado\Aprovado\bin\Debug\net6.0\Aprovado.deps.json
+D:\Programação\Visual Studio\Aprovado\Aprovado\bin\Debug\net6.0\Aprovado.runtimeconfig.json
+D:\Programação\Visual Studio\Aprovado\Aprovado\bin\Debug\net6.0\Aprovado.dll
+D:\Programação\Visual Studio\Aprovado\Aprovado\bin\Debug\net6.0\Aprovado.pdb
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.AssemblyInfo.cs
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.dll
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\refint\Aprovado.dll
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.pdb
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\Aprovado.genruntimeconfig.cache
+D:\Programação\Visual Studio\Aprovado\Aprovado\obj\Debug\net6.0\ref\Aprovado.dll

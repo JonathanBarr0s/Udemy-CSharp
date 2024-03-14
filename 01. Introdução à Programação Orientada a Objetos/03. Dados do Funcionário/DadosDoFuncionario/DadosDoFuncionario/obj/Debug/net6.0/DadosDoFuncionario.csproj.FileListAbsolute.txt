@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\bin\Debug\net6.0\DadosDoFuncionario.exe
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\bin\Debug\net6.0\DadosDoFuncionario.deps.json
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\bin\Debug\net6.0\DadosDoFuncionario.runtimeconfig.json
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\bin\Debug\net6.0\DadosDoFuncionario.dll
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\bin\Debug\net6.0\DadosDoFuncionario.pdb
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.AssemblyInfo.cs
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.dll
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\refint\DadosDoFuncionario.dll
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.pdb
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\DadosDoFuncionario.genruntimeconfig.cache
+D:\Programação\Visual Studio\DadosDoFuncionario\DadosDoFuncionario\obj\Debug\net6.0\ref\DadosDoFuncionario.dll
