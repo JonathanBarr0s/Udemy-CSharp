@@ -196,7 +196,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">Pessoa Mais Velha</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/00.%20Pessoa%20Mais%20Velha">Código</a></td>
             <td align="center">C#</td>
-            <td>Fazer um programa para ler os dados de duas pessoas, e depois dizer quem é o mais velho.</td>
+            <td>Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais velha.</td>
         </tr>
   </table>
 
