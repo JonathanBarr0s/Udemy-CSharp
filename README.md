@@ -194,9 +194,9 @@ Aqui estão todas as atividades que realizei durante o curso:
         </tr>
         <tr>
             <td align="center">Pessoa Mais Velha</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/00.%20Soma">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/00.%20Pessoa%20Mais%20Velha">Código</a></td>
             <td align="center">C#</td>
-            <td>Criar um programa que lerá dois valores inteiros e mostrará a soma deles na tela com uma mensagem explicativa.</td>
+            <td>Fazer um programa para ler os dados de duas pessoas, e depois dizer quem é o mais velho.</td>
         </tr>
   </table>
 
