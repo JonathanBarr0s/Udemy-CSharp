@@ -25,5 +25,5 @@ Salário médio = 6500.00
 
 Minha resposta:
 
-- [Programa](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/00.%20Pessoa%20Mais%20Velha/PessoaMaisVelha/PessoaMaisVelha/Program.cs)
-- [Classe](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/00.%20Pessoa%20Mais%20Velha/PessoaMaisVelha/PessoaMaisVelha/Pessoa.cs)
+- [Programa](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Sal%C3%A1rio%20M%C3%A9dio/SalarioMedio/SalarioMedio/Program.cs)
+- [Classe](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Sal%C3%A1rio%20M%C3%A9dio/SalarioMedio/SalarioMedio/Funcionario.cs)
