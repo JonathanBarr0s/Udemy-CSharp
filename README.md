@@ -204,6 +204,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Fazer um programa para ler nome e salário de dois funcionários, depois mostrar o salário médio dos funcionários.</td>
         </tr>
+        <tr>
+            <td align="center">Dados do Retângulo</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Dados%20do%20Ret%C3%A2ngulo">Código</a></td>
+            <td align="center">C#</td>
+            <td>Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal.</td>
+        </tr>
   </table>
 
 </div>
