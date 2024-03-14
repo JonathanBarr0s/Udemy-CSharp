@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\bin\Debug\net6.0\DadosDoRetangulo.exe
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\bin\Debug\net6.0\DadosDoRetangulo.deps.json
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\bin\Debug\net6.0\DadosDoRetangulo.runtimeconfig.json
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\bin\Debug\net6.0\DadosDoRetangulo.dll
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\bin\Debug\net6.0\DadosDoRetangulo.pdb
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.AssemblyInfo.cs
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.dll
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\refint\DadosDoRetangulo.dll
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.pdb
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\DadosDoRetangulo.genruntimeconfig.cache
+D:\Programação\Visual Studio\DadosDoRetangulo\DadosDoRetangulo\obj\Debug\net6.0\ref\DadosDoRetangulo.dll
