@@ -37,5 +37,5 @@ DIAGONAL = 5.00
 
 Minha resposta:
 
-- [Programa](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Sal%C3%A1rio%20M%C3%A9dio/SalarioMedio/SalarioMedio/Program.cs)
-- [Classe](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Sal%C3%A1rio%20M%C3%A9dio/SalarioMedio/SalarioMedio/Funcionario.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Dados%20do%20Ret%C3%A2ngulo/DadosDoRetangulo/DadosDoRetangulo/Program.cs)
+- [Retangulo](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Dados%20do%20Ret%C3%A2ngulo/DadosDoRetangulo/DadosDoRetangulo/Retangulo.cs)
