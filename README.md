@@ -222,6 +222,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Criar um programa que calcula a nota final de um aluno com base em suas notas trimestrais, indicando se ele passou ou não, e, se reprovado, quantos pontos faltam para a aprovação.</td>
         </tr>
+        <tr>
+            <td align="center">Conversor de Moedas</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Conversor%20de%20Moedas">Código</a></td>
+            <td align="center">C#</td>
+            <td>Desenvolver um programa que, por meio de uma classe ConversorDeMoeda, calculará o valor em reais a ser pago por uma pessoa ao comprar uma quantia específica de dólares, considerando a cotação do dólar e uma taxa de 6% de IOF.</td>
+        </tr>
   </table>
 
 </div>
