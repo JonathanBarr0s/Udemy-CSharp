@@ -1,0 +1,15 @@
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.exe
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.deps.json
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.runtimeconfig.json
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.dll
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\bin\Debug\net6.0\ConversorDeMoeda.pdb
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.AssemblyReference.cache
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfoInputs.cache
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.AssemblyInfo.cs
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.csproj.CoreCompileInputs.cache
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.dll
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\refint\ConversorDeMoeda.dll
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.pdb
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ConversorDeMoeda.genruntimeconfig.cache
+D:\Programação\Visual Studio\ConversorDeMoeda\ConversorDeMoeda\obj\Debug\net6.0\ref\ConversorDeMoeda.dll
