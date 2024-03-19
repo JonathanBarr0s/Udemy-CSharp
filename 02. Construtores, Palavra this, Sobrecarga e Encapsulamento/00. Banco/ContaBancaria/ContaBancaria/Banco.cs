@@ -22,13 +22,8 @@
             Saldo -= saldo + 5;
         }
 
-        public void MudancaTitular(string titular) {
-            Titular = titular;
-        }
-
         public override string ToString() {
             return string.Format("Conta {0}, Titular: {1}, Saldo: $ {2:F2}", NumeroConta, Titular, Saldo);
         }
-
     }
 }
