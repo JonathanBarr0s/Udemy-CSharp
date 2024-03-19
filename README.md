@@ -181,7 +181,7 @@ Aqui estão todas as atividades que realizei durante o curso:
     <br>
     <table>
         <tr>
-            <th colspan="4">Introdução à Programação Orientada a Objetos</th>
+            <th colspan="4">Programação Orientada a Objetos</th>
         </tr>
         <tr>
             <th colspan="4">Classes, Atributos, Métodos e Membros Estáticos</th>
@@ -227,6 +227,21 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Conversor%20de%20Moedas">Código</a></td>
             <td align="center">C#</td>
             <td>Desenvolver um programa que, por meio de uma classe ConversorDeMoeda, calculará o valor em reais a ser pago por uma pessoa ao comprar uma quantia específica de dólares, considerando a cotação do dólar e uma taxa de 6% de IOF.</td>
+        </tr>
+              <tr>
+            <th colspan="4">Classes, Atributos, Métodos e Membros Estáticos</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Banco</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/02.%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%20e%20Encapsulamento/00.%20Banco">Código</a></td>
+            <td align="center">C#</td>
+            <td>Fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre mostrando os dados da conta após cada operação.</td>
         </tr>
   </table>
 
