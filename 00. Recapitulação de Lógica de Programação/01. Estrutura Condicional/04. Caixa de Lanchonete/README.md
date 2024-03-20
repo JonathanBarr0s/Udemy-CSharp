@@ -32,4 +32,4 @@ Total: R$ 13.50
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/10.%20Conta%20a%20Pagar/ContaAPagar/ContaAPagar/Program.cs) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Estrutura%20Condicional/04.%20Caixa%20de%20Lanchonete/ContaAPagar/ContaAPagar/Program.cs) minha resposta.

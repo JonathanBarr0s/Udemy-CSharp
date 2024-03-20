@@ -40,4 +40,4 @@ O JOGO DUROU 14 HORA(S)
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/09.%20Tempo%20de%20Jogo/TempoDeJogo/TempoDeJogo/Program.cs) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Estrutura%20Condicional/03.%20Tempo%20de%20Jogo/TempoDeJogo/TempoDeJogo/Program.cs) minha resposta.

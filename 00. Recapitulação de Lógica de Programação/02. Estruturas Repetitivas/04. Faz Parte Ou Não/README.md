@@ -22,4 +22,4 @@ Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/18.%20Faz%20Parte%20Ou%20N%C3%A3o/FazParteOuNao/FazParteOuNao/Program.cs) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/02.%20Estruturas%20Repetitivas/04.%20Faz%20Parte%20Ou%20N%C3%A3o/FazParteOuNao/FazParteOuNao/Program.cs) minha resposta.

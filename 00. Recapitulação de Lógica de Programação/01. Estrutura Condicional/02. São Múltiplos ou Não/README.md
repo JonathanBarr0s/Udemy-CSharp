@@ -40,4 +40,4 @@ Sao Multiplos
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/08.%20S%C3%A3o%20M%C3%BAltiplos%20ou%20N%C3%A3o/SaoMultiplosOuNao/SaoMultiplosOuNao/Program.cs) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20Estrutura%20Condicional/02.%20S%C3%A3o%20M%C3%BAltiplos%20ou%20N%C3%A3o/SaoMultiplosOuNao/SaoMultiplosOuNao/Program.cs) minha resposta.

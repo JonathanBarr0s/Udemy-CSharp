@@ -41,5 +41,5 @@ FALTARAM 8.00 PONTOS
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Aprovado/Aprovado/Aprovado/Program.cs)
-- [Aluno](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Aprovado/Aprovado/Aprovado/Aluno.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/00.%20Classes%2C%20Atributos%2C%20M%C3%A9todos%20e%20Membros%20Est%C3%A1ticos/04.%20Aprovado/Aprovado/Aprovado/Program.cs)
+- [Aluno](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/00.%20Classes%2C%20Atributos%2C%20M%C3%A9todos%20e%20Membros%20Est%C3%A1ticos/04.%20Aprovado/Aprovado/Aprovado/Aluno.cs)
