@@ -14,10 +14,6 @@ namespace NegativoPositivo {
             } else {
                 Console.WriteLine("POSITIVO");
             }
-
-
-
-
         }
     }
 }
