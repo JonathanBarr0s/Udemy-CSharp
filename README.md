@@ -254,7 +254,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </tr>
         <tr>
             <td align="center">Aluguel de Quartos</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%20e%20Encapsulamento/00.%20Banco">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas">Código</a></td>
             <td align="center">C#</td>
             <td>Criar um programa que irá gerenciar o aluguel de quartos em um pensionato e imprimirá um relatório das ocupações, ordenadas por quarto.</td>
         </tr>
