@@ -243,6 +243,21 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Fazer um programa que realize o cadastro de uma conta, dando opção para que seja ou não informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre mostrando os dados da conta após cada operação.</td>
         </tr>
+        <tr>
+            <th colspan="4">Comportamento de Memória, Arrays e Listas</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Aluguel de Quartos</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/01.%20Construtores%2C%20Palavra%20this%2C%20Sobrecarga%20e%20Encapsulamento/00.%20Banco">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que irá gerenciar o aluguel de quartos em um pensionato e imprimirá um relatório das ocupações, ordenadas por quarto.</td>
+        </tr>
   </table>
 
 </div>
