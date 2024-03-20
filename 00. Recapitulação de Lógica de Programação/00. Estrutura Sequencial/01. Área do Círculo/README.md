@@ -45,4 +45,4 @@ A = 70685.7750
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/01.%20%C3%81rea%20do%20C%C3%ADrculo/AreaDoCirculo/AreaDoCirculo/Program.cs) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/00.%20Estrutura%20Sequencial/01.%20%C3%81rea%20do%20C%C3%ADrculo/AreaDoCirculo/AreaDoCirculo/Program.cs) minha resposta.

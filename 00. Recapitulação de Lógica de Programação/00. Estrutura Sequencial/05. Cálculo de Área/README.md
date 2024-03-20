@@ -46,4 +46,4 @@ RETANGULO: 132.080
 
 ---
 
-Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/05.%20C%C3%A1lculo%20de%20%C3%81rea/CalculoDeArea/CalculoDeArea/Program.cs) minha resposta.
+Acesse [aqui](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/00.%20Recapitula%C3%A7%C3%A3o%20de%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/00.%20Estrutura%20Sequencial/05.%20C%C3%A1lculo%20de%20%C3%81rea/CalculoDeArea/CalculoDeArea/Program.cs) minha resposta.
