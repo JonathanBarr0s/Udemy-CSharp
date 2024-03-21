@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\Visual Studio\\Empresa\\Empresa\\Empresa.csproj": {}
+    "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\01. Aumento de Salário\\Empresa\\Empresa\\Empresa.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\Visual Studio\\Empresa\\Empresa\\Empresa.csproj": {
+    "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\01. Aumento de Salário\\Empresa\\Empresa\\Empresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\Visual Studio\\Empresa\\Empresa\\Empresa.csproj",
+        "projectUniqueName": "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\01. Aumento de Salário\\Empresa\\Empresa\\Empresa.csproj",
         "projectName": "Empresa",
-        "projectPath": "D:\\Programação\\Visual Studio\\Empresa\\Empresa\\Empresa.csproj",
+        "projectPath": "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\01. Aumento de Salário\\Empresa\\Empresa\\Empresa.csproj",
         "packagesPath": "C:\\Users\\Jonathan Barros\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação\\Visual Studio\\Empresa\\Empresa\\obj\\",
+        "outputPath": "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\01. Aumento de Salário\\Empresa\\Empresa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -67,6 +67,7 @@ namespace Empresa {
 
             Console.WriteLine();
 
+            Console.WriteLine("Lista atualizada de funcionários:");
             foreach (Empregado item in listaEmpregados) {
                 Console.WriteLine(item);
             }

@@ -1,44 +1,47 @@
-# Exercício - Aluguel de Quartos
+# Exercício - Aumento de Salário
 
-A dona de um pensionato possui dez quartos para alugar para estudantes, sendo esses quartos identificados pelos números 0 a 9.
+Fazer um programa para ler um número inteiro N e depois os dados (id, nome e salario) de N funcionários. Não deve haver repetição de id.
 
-Quando um estudante deseja alugar um quarto, deve-se registrar o nome e email deste estudante.
+Em seguida, efetuar o aumento de X por cento no salário de um determinado funcionário. Para isso, o programa deve ler um id e o valor X. Se o id informado não existir, mostrar uma mensagem e abortar a operação. Ao final, mostrar a listagem atualizada dos funcionários, conforme exemplos.
 
-Fazer um programa que inicie com todos os dez quartos vazios, e depois leia uma quantidade N representando o número de estudantes que vão alugar quartos (N pode ser de 1 a 10). Em seguida, registre o aluguel dos N estudantes. Para cada registro de aluguel, informar o nome e email do estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha
-que seja escolhido um quarto vago. Ao final, seu programa deve imprimir um relatório de todas ocupações do pensionato, por ordem de quarto, conforme exemplo.
+Lembre-se de aplicar a técnica de encapsulamento para não permitir que o salário possa ser mudado livremente. Um salário só pode ser aumentado com base em uma operação de
+aumento por porcentagem dada.
 
 ### Exemplo de Entrada:
 
 ```
-Quantos quartos serão alugados? 3
+Quantos funcionários serão cadastrados? 3
 
-Aluguel #1:
-Nome: Maria Green
-Email: maria@gmail.com
-Quarto: 5
+Funcionário nº 1:
+Identidade: 333
+Nome: Maria Brown
+Salário: 4.000,00
 
-Aluguel #2:
-Nome: Marco Antonio
-Email: marco@gmail.com
-Quarto: 1
+Funcionário nº 2:
+Identidade: 536
+Nome: Alex Grey
+Salário: 3.000,00
 
-Aluguel #3:
-Nome: Alex Brown
-Email: alex@gmail.com
-Quarto: 8
+Funcionário nº 3:
+Identidade: 772
+Nome: Bob Verde
+Salário: 5.000,00
+
+Informe o ID do funcionário que terá aumento salarial: 536
+Insira a porcentagem: 10,0
 ```
 
 ### Exemplo de Saída:
 
 ```
-Quartos ocupados:
-1: Marco Antonio, marco@gmail.com
-5: Maria Green, maria@gmail.com
-8: Alex Brown, alex@gmail.com
+Lista atualizada de funcionários:
+333, Maria Brown, 4000,00
+536, Alex Gray, 3300,00
+772, Bob Verde, 5.000,00
 ```
 ---
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/AluguelDeQuartos/AluguelDeQuartos/Program.cs)
-- [Pessoa](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/AluguelDeQuartos/AluguelDeQuartos/Pessoa.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/00.%20Aluguel%20de%20Quartos/AluguelDeQuartos/AluguelDeQuartos/Program.cs)
+- [Pessoa](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/00.%20Aluguel%20de%20Quartos/AluguelDeQuartos/AluguelDeQuartos/Pessoa.cs)
