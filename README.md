@@ -264,6 +264,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Fazer um programa que lerá o número de funcionários e seus dados (ID, nome e salário), sem repetição de ID. Em seguida, aumentará o salário de um funcionário específico em X por cento. Se o ID não existir, mostrará uma mensagem. Por fim, mostrará a lista atualizada de funcionários.</td>
         </tr>
+        <tr>
+            <td align="center">Matriz</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/01.%20Aumento%20de%20Sal%C3%A1rio">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que leia uma matriz e um número, e mostre os valores ao redor desse número.</td>
+        </tr>
   </table>
 
 </div>
