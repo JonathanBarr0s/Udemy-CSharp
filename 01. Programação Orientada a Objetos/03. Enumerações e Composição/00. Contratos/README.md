@@ -47,5 +47,9 @@ Income for 08/2018: 3000.00
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/01.%20Aumento%20de%20Sal%C3%A1rio/Empresa/Empresa/Program.cs)
-- [Empregados](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/02.%20Comportamento%20de%20Mem%C3%B3ria%2C%20Arrays%20e%20Listas/01.%20Aumento%20de%20Sal%C3%A1rio/Empresa/Empresa/Empregados.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos/Contratos/Contratos/Program.cs)
+
+**Entities**
+- [Department](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos/Contratos/Contratos/Entities/Department.cs)
+- [HourContract](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos/Contratos/Contratos/Entities/HourContract.cs)
+- [Worker](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos/Contratos/Contratos/Entities/Worker.cs)
