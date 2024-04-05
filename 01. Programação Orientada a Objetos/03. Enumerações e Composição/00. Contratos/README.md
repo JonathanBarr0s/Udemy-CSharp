@@ -1,7 +1,7 @@
-# Exercício - Contratos
+# Exercï¿½cio - Contratos
 
-Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês, conforme exemplo
-(próxima página).
+Ler os dados de um trabalhador com N contratos (N fornecido pelo usuï¿½rio). Depois, solicitar do usuï¿½rio um mï¿½s e mostrar qual foi o salï¿½rio do funcionï¿½rio nesse mï¿½s, conforme exemplo
+(prï¿½xima pï¿½gina).
 
 <p align="center">
   <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/897415b2-849a-4d49-bbd9-b5b787189138" width= 70%>
@@ -11,19 +11,23 @@ Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depoi
 
 ```
 Enter department's name: Design
+
 Enter worker data:
 Name: Alex
 Level (Junior/MidLevel/Senior): MidLevel
 Base salary: 1200.00
 How many contracts to this worker? 3
+
 Enter #1 contract data:
 Date (DD/MM/YYYY): 20/08/2018
 Value per hour: 50.00
 Duration (hours): 20
+
 Enter #2 contract data:
 Date (DD/MM/YYYY): 13/06/2018
 Value per hour: 30.00
 Duration (hours): 18
+
 Enter #3 contract data:
 Date (DD/MM/YYYY): 25/08/2018
 Value per hour: 80.00
@@ -32,7 +36,7 @@ Duration (hours): 10
 Enter month and year to calculate income (MM/YYYY): 08/2018
 ```
 
-### Exemplo de Saída:
+### Exemplo de Saï¿½da:
 
 ```
 Name: Alex
