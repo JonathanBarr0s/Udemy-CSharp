@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\Visual Studio\\Matriz\\Matriz\\Matriz.csproj",
+      "projectUniqueName": "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\02. Matriz\\Matriz\\Matriz\\Matriz.csproj",
       "projectName": "Matriz",
-      "projectPath": "D:\\Programação\\Visual Studio\\Matriz\\Matriz\\Matriz.csproj",
+      "projectPath": "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\02. Matriz\\Matriz\\Matriz\\Matriz.csproj",
       "packagesPath": "C:\\Users\\Jonathan Barros\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\Visual Studio\\Matriz\\Matriz\\obj\\",
+      "outputPath": "D:\\Programação\\Udemy-CSharp\\01. Programação Orientada a Objetos\\02. Comportamento de Memória, Arrays e Listas\\02. Matriz\\Matriz\\Matriz\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,3 +13,18 @@ D:\Programação\Visual Studio\Matriz\Matriz\obj\Debug\net6.0\refint\Matriz.dll
 D:\Programação\Visual Studio\Matriz\Matriz\obj\Debug\net6.0\Matriz.pdb
 D:\Programação\Visual Studio\Matriz\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
 D:\Programação\Visual Studio\Matriz\Matriz\obj\Debug\net6.0\ref\Matriz.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\bin\Debug\net6.0\Matriz.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\bin\Debug\net6.0\Matriz.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\bin\Debug\net6.0\Matriz.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\bin\Debug\net6.0\Matriz.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\02. Comportamento de Memória, Arrays e Listas\02. Matriz\Matriz\Matriz\obj\Debug\net6.0\ref\Matriz.dll
