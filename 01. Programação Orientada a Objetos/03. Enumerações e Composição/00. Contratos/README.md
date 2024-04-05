@@ -1,7 +1,7 @@
-# Exerc�cio - Contratos
+# Exercício - Contratos
 
-Ler os dados de um trabalhador com N contratos (N fornecido pelo usu�rio). Depois, solicitar do usu�rio um m�s e mostrar qual foi o sal�rio do funcion�rio nesse m�s, conforme exemplo
-(pr�xima p�gina).
+Ler os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês, conforme exemplo
+(próxima página).
 
 <p align="center">
   <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/897415b2-849a-4d49-bbd9-b5b787189138" width= 70%>
