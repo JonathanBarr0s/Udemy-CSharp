@@ -36,7 +36,7 @@ Duration (hours): 10
 Enter month and year to calculate income (MM/YYYY): 08/2018
 ```
 
-### Exemplo de Sa�da:
+### Exemplo de Saída:
 
 ```
 Name: Alex
