@@ -287,7 +287,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </td>
         <tr>
             <td align="center">Rede Social</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/01.%20Post">Código</a></td>
             <td align="center">C#</td>
             <td>Desenvolver um programa para simular uma rede social, onde os usuários podem criar postagens com título, conteúdo, data, hora, curtidas e comentários.
         </td>
