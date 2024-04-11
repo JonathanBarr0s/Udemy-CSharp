@@ -3,7 +3,7 @@
 Ler os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um sumário do pedido conforme exemplo (próxima página). Nota: o instante do pedido deve ser o instante do sistema: DateTime.Now
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/11d90941-814d-4d98-98d4-4ed3fead133b" width= 50%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/11d90941-814d-4d98-98d4-4ed3fead133b" width= 70%>
 </p>
 
 Você deverá instanciar os objetos em memória da seguinte forma:
