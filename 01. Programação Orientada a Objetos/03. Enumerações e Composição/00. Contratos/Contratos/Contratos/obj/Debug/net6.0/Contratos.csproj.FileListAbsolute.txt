@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\bin\Debug\net6.0\Contratos.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\bin\Debug\net6.0\Contratos.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\bin\Debug\net6.0\Contratos.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\bin\Debug\net6.0\Contratos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\bin\Debug\net6.0\Contratos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\refint\Contratos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\Contratos.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\00. Contratos\Contratos\Contratos\obj\Debug\net6.0\ref\Contratos.dll

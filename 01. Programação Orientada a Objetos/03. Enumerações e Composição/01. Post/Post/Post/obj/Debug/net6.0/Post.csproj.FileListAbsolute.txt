@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\bin\Debug\net6.0\Post.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\bin\Debug\net6.0\Post.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\bin\Debug\net6.0\Post.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\bin\Debug\net6.0\Post.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\bin\Debug\net6.0\Post.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\refint\Post.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\Post.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\01. Post\Post\Post\obj\Debug\net6.0\ref\Post.dll
