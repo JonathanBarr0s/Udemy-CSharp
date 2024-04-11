@@ -285,6 +285,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Fazer um programa que leia os dados de um trabalhador com N contratos (N fornecido pelo usuário). Depois, solicitar do usuário um mês e mostrar qual foi o salário do funcionário nesse mês.
         </td>
+        <tr>
+            <td align="center">Rede Social</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos">Código</a></td>
+            <td align="center">C#</td>
+            <td>Desenvolver um programa para simular uma rede social, onde os usuários podem criar postagens com título, conteúdo, data, hora, curtidas e comentários.
+        </td>
         </tr>
   </table>
 
