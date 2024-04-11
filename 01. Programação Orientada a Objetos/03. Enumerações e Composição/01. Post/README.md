@@ -3,7 +3,7 @@
 Crie um programa para simular uma rede social onde os usuários podem fazer postagens, cada uma contendo título, conteúdo, data e hora da postagem, número de curtidas e comentários. O programa deve solicitar essas informações ao usuário para cada postagem, permitindo a adição de comentários também. Ao final, todas as postagens, junto com seus comentários, devem ser exibidas.
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/24c3ab64-a3ff-4a36-9a49-cb1503089521" width= 70%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/24c3ab64-a3ff-4a36-9a49-cb1503089521" width= 50%>
 </p>
 
 <p align="center">
