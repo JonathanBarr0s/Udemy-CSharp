@@ -7,7 +7,7 @@ Crie um programa para simular uma rede social onde os usuários podem fazer post
 </p>
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/aa33569a-75d0-475b-9284-e6913492eba9" width= 70%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/a7d7844d-8c84-4dea-9ed7-2df7230a8ec7" width= 70%>
 </p>
 
 ### Exemplo de Saída:
