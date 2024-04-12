@@ -51,8 +51,13 @@ Total price: $1080.00
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/01.%20Post/Post/Post/Program.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/02.%20Pedido%20de%20Compra/PedidoDeCompra/PedidoDeCompra/Program.cs)
 
 **Entities**
-- [Post](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/01.%20Post/Post/Post/Entities/Post.cs)
-- [Comment](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/01.%20Post/Post/Post/Entities/Comment.cs)
+- [Client](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/02.%20Pedido%20de%20Compra/PedidoDeCompra/PedidoDeCompra/Entities/Client.cs)
+- [Order](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/02.%20Pedido%20de%20Compra/PedidoDeCompra/PedidoDeCompra/Entities/Order.cs)
+- [OrderItem](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/02.%20Pedido%20de%20Compra/PedidoDeCompra/PedidoDeCompra/Entities/OrderItem.cs)
+- [Product](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/02.%20Pedido%20de%20Compra/PedidoDeCompra/PedidoDeCompra/Entities/Product.cs)
+
+**Enums**
+- [OrderStatus](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/02.%20Pedido%20de%20Compra/PedidoDeCompra/PedidoDeCompra/Entities/Enums/OrderStatus.cs)
