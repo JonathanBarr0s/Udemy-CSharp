@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\bin\Debug\net6.0\PedidoDeCompra.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\bin\Debug\net6.0\PedidoDeCompra.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\bin\Debug\net6.0\PedidoDeCompra.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\bin\Debug\net6.0\PedidoDeCompra.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\bin\Debug\net6.0\PedidoDeCompra.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\refint\PedidoDeCompra.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\PedidoDeCompra.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\03. Enumerações e Composição\02. Pedido de Compra\PedidoDeCompra\PedidoDeCompra\obj\Debug\net6.0\ref\PedidoDeCompra.dll
