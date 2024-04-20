@@ -9,7 +9,7 @@ Fazer um programa para ler os dados de N funcionários (N fornecido pelo usuári
 Construa o programa conforme projeto abaixo.
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/7fa8bc2a-19f0-4865-a216-89118ab3615a" width= 40%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/7fa8bc2a-19f0-4865-a216-89118ab3615a" width= 20%>
 </p>
 
 ### Exemplo de Entrada:
