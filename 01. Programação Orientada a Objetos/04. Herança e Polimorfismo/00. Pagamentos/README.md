@@ -53,7 +53,7 @@ Maria - $ 1200.00
     <div align="left">
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/470e4811-cb7c-4311-ad1f-a0de86377b4b" width= 70%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/470e4811-cb7c-4311-ad1f-a0de86377b4b" width= 40%>
 </p>
 
 </details>
