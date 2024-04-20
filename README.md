@@ -309,7 +309,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </tr>
         <tr>
             <td align="center">Pagamentos</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/00.%20Pagamentos">Código</a></td>
             <td align="center">C#</td>
             <td>Criar um programa que registre e calcule o pagamento de funcionários próprios e terceirizados, exibindo os pagamentos ao final.
         </td>
