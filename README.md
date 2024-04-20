@@ -298,6 +298,22 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Desenvolver um programa que leia os dados de um pedido com N itens (N fornecido pelo usuário). Depois, mostrar um sumário do pedido conforme exemplo.
         </td>
         </tr>
+        <tr>
+            <th colspan="4">Herança e Polimorfismo</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Pagamentos</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/03.%20Enumera%C3%A7%C3%B5es%20e%20Composi%C3%A7%C3%A3o/00.%20Contratos">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que registre e calcule o pagamento de funcionários próprios e terceirizados, exibindo os pagamentos ao final.
+        </td>
+        </tr>
   </table>
 
 </div>
