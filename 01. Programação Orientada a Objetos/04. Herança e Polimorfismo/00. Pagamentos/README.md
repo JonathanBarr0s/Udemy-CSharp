@@ -48,7 +48,7 @@ Maria - $ 1200.00
 ```
 
 <details>
-    <summary><strong>Comportamento Em Memória (ilustração)</strong></summary>
+    <summary><strong>Comportamento Em Memória (Ilustração)</strong></summary>
     <br />
     <div align="left">
 
@@ -57,6 +57,7 @@ Maria - $ 1200.00
 </p>
 
 </details>
+
 ---
 
 Minha resposta:
