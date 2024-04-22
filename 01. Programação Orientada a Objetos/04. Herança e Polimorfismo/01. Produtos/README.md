@@ -7,7 +7,7 @@ Todo produto possui nome e preço. Produtos importados possuem uma taxa de alfâ
 Favor implementar o programa conforme projeto abaixo.
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/70a930ad-04d0-48c8-8487-be08dd5e1873" width= 30%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/70a930ad-04d0-48c8-8487-be08dd5e1873" width= 40%>
 </p>
 
 ### Exemplo de Entrada:
