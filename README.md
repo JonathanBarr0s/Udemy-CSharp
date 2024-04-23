@@ -325,6 +325,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td>Fazer um programa para ler os dados de N figuras (N fornecido pelo usuário), e depois mostrar as áreas destas figuras na mesma ordem em que foram digitadas.
         </td>
+        <tr>
+            <td align="center">Impostômetro</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/03.%20Impost%C3%B4metro">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que calcule e exiba o valor do imposto pago por cada contribuinte, sendo eles pessoa física ou pessoa jurídica, e também mostrar o total de imposto arrecadado. As regras de cálculo variam de acordo com o tipo de contribuinte e seus dados específicos, como renda anual, gastos com saúde (para pessoa física) e número de funcionários (para pessoa jurídica).
+        </td>
         </tr>
   </table>
 
