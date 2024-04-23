@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\bin\Debug\net6.0\Impostometro.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\bin\Debug\net6.0\Impostometro.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\bin\Debug\net6.0\Impostometro.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\bin\Debug\net6.0\Impostometro.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\bin\Debug\net6.0\Impostometro.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\refint\Impostometro.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\Impostometro.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\04. Herança e Polimorfismo\03. Impostômetro\Impostometro\Impostometro\obj\Debug\net6.0\ref\Impostometro.dll
