@@ -53,12 +53,9 @@ TOTAL TAXES: $ 97000.00
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/02.%20Figuras/Figuras/Figuras/Program.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/03.%20Impost%C3%B4metro/Impostometro/Impostometro/Program.cs)
 
 **Entities**
-- [Shape](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/02.%20Figuras/Figuras/Figuras/Entities/Shape.cs)
-- [Rectangle](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/02.%20Figuras/Figuras/Figuras/Entities/Rectangle.cs)
-- [Circle](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/02.%20Figuras/Figuras/Figuras/Entities/Circle.cs)
-
-**Enums**
-- [Color](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/02.%20Figuras/Figuras/Figuras/Entities/Enums/Color.cs)
+- [TaxPayer](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/03.%20Impost%C3%B4metro/Impostometro/Impostometro/Entities/TaxPayer.cs)
+- [Individual](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/03.%20Impost%C3%B4metro/Impostometro/Impostometro/Entities/Individual.cs)
+- [Company](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/03.%20Impost%C3%B4metro/Impostometro/Impostometro/Entities/Company.cs)
