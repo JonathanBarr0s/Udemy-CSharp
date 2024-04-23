@@ -11,7 +11,7 @@ Exemplo: uma pessoa cuja renda foi 50000.00 e teve 2000.00 em gastos com saúde,
 Exemplo: uma empresa cuja renda foi 400000.00 e possui 25 funcionários, o imposto fica: 400000 * 14% = 56000.00
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/70a49d5a-e91a-469d-b322-c6f90786611c" width= 40%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/70a49d5a-e91a-469d-b322-c6f90786611c" width= 50%>
 </p>
 
 ### Exemplo de Entrada:
