@@ -1,7 +1,5 @@
-﻿namespace Figuras.Entities.Enums
-{
-    internal enum Color
-    {
+﻿namespace Figuras.Entities.Enums {
+    internal enum Color {
 
         Black,
         Blue,
