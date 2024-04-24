@@ -332,6 +332,22 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Criar um programa que calcule e exiba o valor do imposto pago por cada contribuinte, sendo eles pessoa física ou pessoa jurídica, e também mostrar o total de imposto arrecadado. As regras de cálculo variam de acordo com o tipo de contribuinte e seus dados específicos, como renda anual, gastos com saúde (para pessoa física) e número de funcionários (para pessoa jurídica).
         </td>
         </tr>
+                <tr>
+            <th colspan="4">Tratamento de Exceções</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Exceções</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/00.%20Reservas">Código</a></td>
+            <td align="center">C#</td>
+            <td>Criar um programa que registre e calcule o pagamento de funcionários próprios e terceirizados, exibindo os pagamentos ao final.
+        </td>
+        </tr>
   </table>
 
 </div>
