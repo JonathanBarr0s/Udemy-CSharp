@@ -39,6 +39,8 @@ Check-out date (dd/MM/yyyy): 29/09/2019
 Reservation: Room 8021, check-in: 24/09/2019, check-out: 29/09/2019, 5 nights
 ```
 
+<br>
+
 ### Exemplo 2:
 
 **Entrada**
@@ -54,6 +56,8 @@ Check-out date (dd/MM/yyyy): 21/09/2019
 ```
 Error in reservation: Check-out date must be after check-in date
 ```
+
+<br>
 
 ### Exemplo 3:
 
@@ -84,6 +88,8 @@ Check-out date (dd/MM/yyyy): 29/09/2015
 ```
 Error in reservation: Reservation dates for update must be future dates
 ```
+
+<br>
 
 ### Exemplo 4:
 
