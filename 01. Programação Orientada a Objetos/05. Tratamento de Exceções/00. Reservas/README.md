@@ -1,4 +1,4 @@
-# Exercício - Pagamentos
+# Exercício - Exceções
 
 Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, data de entrada e data de saída) e mostrar os dados da reserva, inclusive sua duração em dias. Em seguida, ler novas datas de entrada e saída, atualizar a reserva, e mostrar novamente a reserva com os dados atualizados. O programa não deve aceitar dados inválidos para a reserva, conforme as seguintes regras:
 
@@ -6,7 +6,7 @@ Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, 
 - A data de saída deve ser maior que a data de entrada
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/8622abad-1ce9-4b12-a650-504728a458f2" width= 30%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/8622abad-1ce9-4b12-a650-504728a458f2" width= 60%>
 </p>
 
 ### Exemplo 1:
