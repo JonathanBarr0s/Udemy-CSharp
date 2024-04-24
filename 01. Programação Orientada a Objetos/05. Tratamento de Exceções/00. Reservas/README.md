@@ -6,7 +6,7 @@ Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, 
 - A data de saída deve ser maior que a data de entrada
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/8622abad-1ce9-4b12-a650-504728a458f2" width= 60%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/8622abad-1ce9-4b12-a650-504728a458f2" width= 50%>
 </p>
 
 ### Exemplo 1:
