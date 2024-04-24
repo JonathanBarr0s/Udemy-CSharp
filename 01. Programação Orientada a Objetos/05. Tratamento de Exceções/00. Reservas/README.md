@@ -11,7 +11,7 @@ Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, 
 
 ### Exemplo 1:
 
-**Entrada**
+**Entrada:**
 
 ```
 Room number: 8021
@@ -19,13 +19,15 @@ Check-in date (dd/MM/yyyy): 23/09/2019
 Check-out date (dd/MM/yyyy): 26/09/2019
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Reservation: Room 8021, check-in: 23/09/2019, check-out: 26/09/2019, 3 nights
 ```
 
-**Entrada**
+<br>
+
+**Entrada:**
 
 ```
 Enter data to update the reservation:
@@ -33,7 +35,7 @@ Check-in date (dd/MM/yyyy): 24/09/2019
 Check-out date (dd/MM/yyyy): 29/09/2019
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Reservation: Room 8021, check-in: 24/09/2019, check-out: 29/09/2019, 5 nights
@@ -45,7 +47,7 @@ Reservation: Room 8021, check-in: 24/09/2019, check-out: 29/09/2019, 5 nights
 
 ### Exemplo 2:
 
-**Entrada**
+**Entrada:**
 
 ```
 Room number: 8021
@@ -53,7 +55,7 @@ Check-in date (dd/MM/yyyy): 23/09/2019
 Check-out date (dd/MM/yyyy): 21/09/2019
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Error in reservation: Check-out date must be after check-in date
@@ -65,7 +67,7 @@ Error in reservation: Check-out date must be after check-in date
 
 ### Exemplo 3:
 
-**Entrada**
+**Entrada:**
 
 ```
 Room number: 8021
@@ -73,13 +75,15 @@ Check-in date (dd/MM/yyyy): 23/09/2019
 Check-out date (dd/MM/yyyy): 26/09/2019
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Reservation: Room 8021, check-in: 23/09/2019, check-out: 26/09/2019, 3 nights
 ```
 
-**Entrada**
+<br>
+
+**Entrada:**
 
 ```
 Enter data to update the reservation:
@@ -87,7 +91,7 @@ Check-in date (dd/MM/yyyy): 24/09/2015
 Check-out date (dd/MM/yyyy): 29/09/2015
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Error in reservation: Reservation dates for update must be future dates
@@ -99,7 +103,7 @@ Error in reservation: Reservation dates for update must be future dates
 
 ### Exemplo 4:
 
-**Entrada**
+**Entrada:**
 
 ```
 Room number: 8021
@@ -107,13 +111,15 @@ Check-in date (dd/MM/yyyy): 23/09/2019
 Check-out date (dd/MM/yyyy): 26/09/2019
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Reservation: Room 8021, check-in: 23/09/2019, check-out: 26/09/2019, 3 nights
 ```
 
-**Entrada**
+<br>
+
+**Entrada:**
 
 ```
 Enter data to update the reservation:
@@ -121,7 +127,7 @@ Check-in date (dd/MM/yyyy): 24/09/2020
 Check-out date (dd/MM/yyyy): 22/09/2020
 ```
 
-**Saída**
+**Saída:**
 
 ```
 Error in reservation: Check-out date must be after check-in date
