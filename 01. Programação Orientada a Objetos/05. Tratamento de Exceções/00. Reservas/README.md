@@ -88,7 +88,7 @@ Check-out date (dd/MM/yyyy): 29/09/2015
 ```
 Error in reservation: Reservation dates for update must be future dates
 ```
-
+---
 <br>
 
 ### Exemplo 4:
