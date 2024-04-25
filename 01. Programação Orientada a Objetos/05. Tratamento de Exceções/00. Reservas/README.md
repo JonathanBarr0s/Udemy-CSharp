@@ -9,7 +9,7 @@ Fazer um programa para ler os dados de uma reserva de hotel (número do quarto, 
   <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/8622abad-1ce9-4b12-a650-504728a458f2" width= 50%>
 </p>
 
-### Exemplo 1:
+### Cenário 1:
 
 **Entrada:**
 
@@ -45,7 +45,7 @@ Reservation: Room 8021, check-in: 24/09/2019, check-out: 29/09/2019, 5 nights
 
 <br>
 
-### Exemplo 2:
+### Cenário 2:
 
 **Entrada:**
 
@@ -65,7 +65,7 @@ Error in reservation: Check-out date must be after check-in date
 
 <br>
 
-### Exemplo 3:
+### Cenário 3:
 
 **Entrada:**
 
@@ -101,7 +101,7 @@ Error in reservation: Reservation dates for update must be future dates
 
 <br>
 
-### Exemplo 4:
+### Cenário 4:
 
 **Entrada:**
 
