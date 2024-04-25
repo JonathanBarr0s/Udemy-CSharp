@@ -349,7 +349,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </td>
         <tr>
             <td align="center">Conta Bancária</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/00.%20Reservas">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/01.%20Conta%20Banc%C3%A1ria">Código</a></td>
             <td align="center">C#</td>
             <td>Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque, mostrando o novo saldo e tratando possíveis excessões.
         </td>
