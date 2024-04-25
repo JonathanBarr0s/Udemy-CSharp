@@ -1,0 +1,115 @@
+# Exercício - Conta Bancária
+
+Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque nesta conta bancária, mostrando o novo saldo. Um saque não pode ocorrer ou se não houver saldo na conta, ou se o valor do saque for superior ao limite de saque da conta. Implemente a conta bancária conforme projeto abaixo:
+
+<p align="center">
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/6ac74585-2d16-4c1b-8276-7cd9442c464a" width= 50%>
+</p>
+
+### Cenário 1:
+
+**Entrada:**
+
+```
+Enter account data
+Number: 8021
+Holder: Bob Brown
+Initial balance: 500.00
+Withdraw limit: 300.00
+
+Enter amount for withdraw: 100.00
+```
+
+**Saída:**
+
+```
+New balance: 400.00
+```
+
+---
+
+<br>
+
+### Cenário 2:
+
+**Entrada:**
+
+```
+Enter account data
+Number: 8021
+Holder: Bob Brown
+Initial balance: 500.00
+Withdraw limit: 300.00
+
+Enter amount for withdraw: 400.00
+```
+
+**Saída:**
+
+```
+Withdraw error: The amount exceeds withdraw limit
+```
+
+---
+
+<br>
+
+### Cenário 3:
+
+**Entrada:**
+
+```
+Enter account data
+Number: 8021
+Holder: Bob Brown
+Initial balance: 500.00
+Withdraw limit: 300.00
+
+Enter amount for withdraw: 800.00
+```
+
+**Saída:**
+
+```
+Withdraw error: The amount exceeds withdraw limit
+```
+
+---
+
+<br>
+
+### Cenário 4:
+
+**Entrada:**
+
+```
+Enter account data
+Number: 8021
+Holder: Bob Brown
+Initial balance: 200.00
+Withdraw limit: 300.00
+
+Enter amount for withdraw: 250.00
+```
+
+**Saída:**
+
+```
+Withdraw error: Not enough balance
+```
+
+---
+
+<br>
+
+---
+
+Minha resposta:
+
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/04.%20Heran%C3%A7a%20e%20Polimorfismo/00.%20Pagamentos/Pagamentos/Pagamentos/Program.cs)
+
+**Entities**
+- [Reservation](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/00.%20Reservas/Reservas/Reservas/Entities/Reservation.cs)
+
+**Exceptions**
+- [DomainException](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/00.%20Reservas/Reservas/Reservas/Entities/Exceptions/DomainException.cs)
