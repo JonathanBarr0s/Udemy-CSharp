@@ -97,11 +97,6 @@ Enter amount for withdraw: 250.00
 ```
 Withdraw error: Not enough balance
 ```
-
----
-
-<br>
-
 ---
 
 Minha resposta:
