@@ -342,7 +342,7 @@ Aqui estão todas as atividades que realizei durante o curso:
             <th>Descrição</th>
         </tr>
         <tr>
-            <td align="center">Exceções</td>
+            <td align="center">Reservas</td>
             <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/00.%20Reservas">Código</a></td>
             <td align="center">C#</td>
             <td>Criar um programa que registre e calcule o pagamento de funcionários próprios e terceirizados, exibindo os pagamentos ao final.
