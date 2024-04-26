@@ -3,7 +3,7 @@
 Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque nesta conta bancária, mostrando o novo saldo. Um saque não pode ocorrer ou se não houver saldo na conta, ou se o valor do saque for superior ao limite de saque da conta. Implemente a conta bancária conforme projeto abaixo:
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/6ac74585-2d16-4c1b-8276-7cd9442c464a" width= 40%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/6ac74585-2d16-4c1b-8276-7cd9442c464a" width= 30%>
 </p>
 
 ### Cenário 1:
