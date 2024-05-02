@@ -4,8 +4,6 @@ Fazer um programa para ler o caminho de um arquivo .csv contendo os dados de ite
 
 ### Exemplo de Entrada:
 
-**Entrada:**
-
 ```
 TV LED,1290.99,1
 Video Game Chair,350.50,3
