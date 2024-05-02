@@ -354,6 +354,23 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Fazer um programa para ler os dados de uma conta bancária e depois realizar um saque, mostrando o novo saldo e tratando possíveis excessões.
         </td>
         </tr>
+        </tr>
+        <tr>
+            <th colspan="4">Trabalhando com Arquivos</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Processando Arquivos</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/05.%20Tratamento%20de%20Exce%C3%A7%C3%B5es/00.%20Reservas">Código</a></td>
+            <td align="center">C#</td>
+            <td>Fazer um programa para ler o caminho de um arquivo .csv contendo os dados de itens vendidos. Cada item possui um nome, preço unitário e quantidade, separados por vírgula. Você deve gerar um novo arquivo chamado "summary.csv", contendo apenas o nome e o valor total para aquele item.
+        </td>
+        </tr>
   </table>
 
 </div>
