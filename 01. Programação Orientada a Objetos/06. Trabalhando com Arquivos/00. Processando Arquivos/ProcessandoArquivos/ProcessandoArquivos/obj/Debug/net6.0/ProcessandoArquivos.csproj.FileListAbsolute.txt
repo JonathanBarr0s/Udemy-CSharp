@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\bin\Debug\net6.0\ProcessandoArquivos.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\bin\Debug\net6.0\ProcessandoArquivos.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\bin\Debug\net6.0\ProcessandoArquivos.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\bin\Debug\net6.0\ProcessandoArquivos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\bin\Debug\net6.0\ProcessandoArquivos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\refint\ProcessandoArquivos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ProcessandoArquivos.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\06. Trabalhando com Arquivos\00. Processando Arquivos\ProcessandoArquivos\ProcessandoArquivos\obj\Debug\net6.0\ref\ProcessandoArquivos.dll
