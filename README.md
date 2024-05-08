@@ -371,6 +371,22 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Fazer um programa para ler o caminho de um arquivo .csv contendo os dados de itens vendidos. Cada item possui um nome, preço unitário e quantidade, separados por vírgula. Você deve gerar um novo arquivo chamado "summary.csv", contendo apenas o nome e o valor total para aquele item.
         </td>
         </tr>
+        <tr>
+            <th colspan="4">Interfaces</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Sistema de Locação</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/06.%20Trabalhando%20com%20Arquivos/00.%20Processando%20Arquivos">Código</a></td>
+            <td align="center">C#</td>
+            <td> Fazer um programa que lê os dados da locação (modelo do carro, instante inicial e final da locação), bem como o valor por hora e o valor diário de locação. O programa deve então gerar a nota de pagamento (contendo valor da locação, valor do imposto e valor total do pagamento) e informar os dados na tela.
+        </td>
+        </tr>
   </table>
 
 </div>
