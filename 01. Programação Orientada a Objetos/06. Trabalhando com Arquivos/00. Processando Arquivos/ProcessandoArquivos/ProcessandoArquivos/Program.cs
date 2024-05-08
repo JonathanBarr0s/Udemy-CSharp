@@ -4,36 +4,33 @@ namespace ProcessandoArquivos {
     internal class Program {
         static void Main(string[] args) {
 
-            string path = @"D:\Bibliotecas do Windows\Downloads\Arquivo.txt";
-            string newPath = path + @"\out";
+            string caminhoArquivoBase = @"D:\Bibliotecas do Windows\Downloads\Arquivo.txt";
 
             try {
 
-                string[] allLines = File.ReadAllLines(path);
+                string caminhoNovaPasta = Path.GetDirectoryName(caminhoArquivoBase) + @"\out";
+                string caminhoNovoArquivo = caminhoNovaPasta + @"\summary.txt";
 
-                string sourceFolderPath = Path.GetDirectoryName(path);
-                string targetFolderPath = sourceFolderPath + @"\out";
-                string targetFilePath = targetFolderPath + @"\summary.txt";
+                Directory.CreateDirectory(caminhoNovaPasta);
 
-                Directory.CreateDirectory(targetFolderPath);
+                using (File.Create(caminhoNovoArquivo)) { }
 
-                using (StreamWriter sw = File.AppendText(targetFilePath)) {
-                    foreach (string line in allLines) {
+                string[] readAllLines = File.ReadAllLines(caminhoArquivoBase);
 
-                        string[] fields = line.Split(',');
-                        string name = fields[0];
-                        double price = double.Parse(fields[1], CultureInfo.InvariantCulture);
-                        int quantity = int.Parse(fields[2]);
+                using (StreamWriter sw = File.AppendText(caminhoNovoArquivo)) {
 
-                        Estoque estoque = new Estoque(name, price, quantity);
+                    foreach (var line in readAllLines) {
+                        string[] aux = line.Split(",");
 
-                        sw.WriteLine(estoque.Name + "," + estoque.Total().ToString("F2", CultureInfo.InvariantCulture));
+                        Estoque estoque = new Estoque(aux[0], double.Parse(aux[1], CultureInfo.InvariantCulture), int.Parse(aux[2], CultureInfo.InvariantCulture));
+
+                        sw.WriteLine(aux[0] + "," + estoque.Total());
                     }
                 }
 
-            } catch (IOException exception) {
+            } catch (Exception exception) {
 
-                Console.WriteLine("Ocorreu o seguinte erro: " + exception.Message);
+                Console.WriteLine("Ocorreu o seguinte erro: " + exception);
             }
 
         }

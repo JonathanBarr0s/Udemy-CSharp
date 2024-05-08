@@ -1,18 +1,21 @@
-﻿namespace ProcessandoArquivos {
+﻿using System.Globalization;
+
+namespace ProcessandoArquivos {
     internal class Estoque {
 
-        public string Name { get; set; }
-        public double Price { get; set; }
-        public int Quantity { get; set; }
+        public string Nome { get; set; }
+        public double Preco { get; set; }
+        public int Quantidade { get; set; }
 
-        public Estoque(string name, double price, int quantity) {
-            Name = name;
-            Price = price;
-            Quantity = quantity;
+        public Estoque(string nome, double preco, int quantidade) {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
-        public double Total() {
-            return Price * Quantity;
+        public string Total() {
+            double total = Preco * Quantidade;
+            return total.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }
