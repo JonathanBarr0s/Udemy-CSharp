@@ -50,4 +50,12 @@ Minha resposta:
 - [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/06.%20Trabalhando%20com%20Arquivos/00.%20Processando%20Arquivos/ProcessandoArquivos/ProcessandoArquivos/Program.cs)
 
 **Entities**
-- [Estoque](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/06.%20Trabalhando%20com%20Arquivos/00.%20Processando%20Arquivos/ProcessandoArquivos/ProcessandoArquivos/Entities/Estoque.cs)
+- [AluguelDeCarros](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o/SistemaDeLocacao/SistemaDeLocacao/Entities/AluguelDeCarros.cs)
+- [Fatura](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o/SistemaDeLocacao/SistemaDeLocacao/Entities/Fatura.cs)
+- [Veiculo](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o/SistemaDeLocacao/SistemaDeLocacao/Entities/Veiculo.cs)
+
+**Services**
+- [BrasilTaxaServico](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o/SistemaDeLocacao/SistemaDeLocacao/Services/BrasilTaxaServico.cs)
+- [ITaxaDeServico](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o/SistemaDeLocacao/SistemaDeLocacao/Services/ITaxaDeServico.cs)
+- [ServicoDeAluguel](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o/SistemaDeLocacao/SistemaDeLocacao/Services/ServicoDeAluguel.cs)
+
