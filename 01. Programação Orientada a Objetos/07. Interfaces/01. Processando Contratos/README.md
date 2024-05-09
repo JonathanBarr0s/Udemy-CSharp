@@ -35,15 +35,15 @@ Cálculos (1% de juros simples mensais + 2% de taxa de pagamento):
     </tr>
     <tr>
         <td align="center">
-            200 + 1% * 1 = 202
+            200 + 1% * 1 = 202 <br>      
             202 + 2% = 206.04
         </td>
         <td align="center">
-           200 + 1% * 2 = 204
+           200 + 1% * 2 = 204 <br>
            204 + 2% = 208.08
         </td>
         <td align="center">
-            200 + 1% * 3 = 206 
+            200 + 1% * 3 = 206 <br>
             206 + 2% = 210.12
         </td>
     </tr>
