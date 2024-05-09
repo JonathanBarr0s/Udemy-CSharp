@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\bin\Debug\net6.0\SistemaDeLocacao.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\bin\Debug\net6.0\SistemaDeLocacao.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\bin\Debug\net6.0\SistemaDeLocacao.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\bin\Debug\net6.0\SistemaDeLocacao.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\bin\Debug\net6.0\SistemaDeLocacao.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\refint\SistemaDeLocacao.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\SistemaDeLocacao.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\00. Sistema de Locação\SistemaDeLocacao\SistemaDeLocacao\obj\Debug\net6.0\ref\SistemaDeLocacao.dll
