@@ -1,5 +1,5 @@
 ﻿namespace SistemaDeLocacao.Services {
-    internal class BrasilTaxaServico {
+    internal class BrasilTaxaServico : ITaxaDeServico {
 
         public double Taxa(double quantia) {
 

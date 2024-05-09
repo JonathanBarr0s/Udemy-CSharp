@@ -6,11 +6,12 @@ namespace SistemaDeLocacao.Services {
         public double PrecoPorHora { get; private set; }
         public double PrecoPorDia { get; private set; }
 
-        private BrasilTaxaServico brasilTaxaServico = new BrasilTaxaServico();
+        private ITaxaDeServico taxaDeServico;
 
-        public ServicoDeAluguel(double precoPorHora, double precoPorDia) {
+        public ServicoDeAluguel(double precoPorHora, double precoPorDia, ITaxaDeServico taxaDeServico) {
             PrecoPorHora = precoPorHora;
             PrecoPorDia = precoPorDia;
+            this.taxaDeServico = taxaDeServico;
         }
 
         public void ProcessarFatura(AluguelDeCarros aluguelDeCarros) {
@@ -23,7 +24,7 @@ namespace SistemaDeLocacao.Services {
                 preco = PrecoPorDia * Math.Ceiling(duracao.TotalDays);
             }
 
-            double taxa = brasilTaxaServico.Taxa(preco);
+            double taxa = taxaDeServico.Taxa(preco);
             aluguelDeCarros.Fatura = new Fatura(preco, taxa);
         }
     }

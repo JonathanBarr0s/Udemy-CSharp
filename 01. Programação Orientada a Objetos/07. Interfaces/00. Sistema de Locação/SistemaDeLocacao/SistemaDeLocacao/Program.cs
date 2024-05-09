@@ -22,7 +22,7 @@ namespace SistemaDeLocacao {
 
             AluguelDeCarros aluguelDeCarros = new AluguelDeCarros(inicio, fim, new Veiculo(modeloCarro));
 
-            ServicoDeAluguel servicoDeAluguel = new ServicoDeAluguel(precoHora, precoDia);
+            ServicoDeAluguel servicoDeAluguel = new ServicoDeAluguel(precoHora, precoDia, new BrasilTaxaServico());
             servicoDeAluguel.ProcessarFatura(aluguelDeCarros);
 
             Console.WriteLine();

@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace SistemaDeLocacao.Services {
+    interface ITaxaDeServico {
 
-namespace SistemaDeLocacao.Services {
-    internal class ITaxaDeServico {
+        public double Taxa(double quantia);
+
     }
 }
