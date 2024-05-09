@@ -58,7 +58,7 @@ Cálculos (1% de juros simples mensais + 2% de taxa de pagamento):
 ### Design da camada de serviço
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/7709dcfc-d432-41dc-9655-1886fac88a97" width= 70%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/7709dcfc-d432-41dc-9655-1886fac88a97" width= 80%>
 </p>
 
 ---
