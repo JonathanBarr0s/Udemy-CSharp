@@ -1,4 +1,4 @@
-# Exercício - Sistema de Locação
+# Exercício - Processando Contratos
 
 Uma empresa deseja automatizar o processamento de seus contratos. O processamento de um contrato consiste em gerar as parcelas a serem pagas para aquele contrato, com base no número de meses desejado.
 
@@ -27,7 +27,7 @@ Installments:
 
 Cálculos (1% de juros simples mensais + 2% de taxa de pagamento):
 
-<table>
+<table align="center">
     <tr>
         <th align="center">Quota #1: </th>
         <th align="center">Quota #2: </th>
@@ -48,6 +48,18 @@ Cálculos (1% de juros simples mensais + 2% de taxa de pagamento):
         </td>
     </tr>
 </table>
+
+### Design da camada de domínio
+
+<p align="center">
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/4135e116-f3e9-434f-a302-c1eefd234cd1" width= 50%>
+</p>
+
+### Design da camada de serviço
+
+<p align="center">
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/7709dcfc-d432-41dc-9655-1886fac88a97" width= 60%>
+</p>
 
 ---
 
