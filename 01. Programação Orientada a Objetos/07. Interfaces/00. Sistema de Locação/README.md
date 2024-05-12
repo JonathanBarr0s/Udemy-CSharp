@@ -12,8 +12,7 @@ exemplos.
 ### Design da camada de serviço
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/d7ebe52a-9aa6-42d6-9532-75eed85df78f
-" width= 80%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/d7ebe52a-9aa6-42d6-9532-75eed85df78f" width= 80%>
 </p>
 
 ### Exemplo de Entrada:
