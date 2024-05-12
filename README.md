@@ -393,5 +393,21 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td>Criar um programa que processe contratos, calculando parcelas mensais com juros simples de 1% e taxa de pagamento de 2%.
         </td>
         </tr>
+        <tr>
+            <th colspan="4">Generics, Set, Dictionary</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Números</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/07.%20Interfaces/00.%20Sistema%20de%20Loca%C3%A7%C3%A3o">Código</a></td>
+            <td align="center">C#</td>
+            <td> Deseja-se fazer um programa que leia um conjunto de N números inteiros (N de 1 a 10), e depois imprima esses números de forma organizada. Em seguida, informar qual foi o primeiro valor informado.
+        </td>
+        </tr>
   </table>
 </div>
