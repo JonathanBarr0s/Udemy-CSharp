@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\bin\Debug\net6.0\ProcessandoContratos.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\bin\Debug\net6.0\ProcessandoContratos.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\bin\Debug\net6.0\ProcessandoContratos.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\bin\Debug\net6.0\ProcessandoContratos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\bin\Debug\net6.0\ProcessandoContratos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\refint\ProcessandoContratos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ProcessandoContratos.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\07. Interfaces\01. Processando Contratos\ProcessandoContratos\ProcessandoContratos\obj\Debug\net6.0\ref\ProcessandoContratos.dll
