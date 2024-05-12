@@ -4,10 +4,10 @@ Deseja-se fazer um programa que leia um conjunto de N números inteiros (N de
 1 a 10), e depois imprima esses números de forma organizada conforme
 exemplo. Em seguida, informar qual foi o primeiro valor informado.
 
-### Serviço de Impressão
+### Serviço de Impressão:
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/44ac4c75-78cd-4144-838e-38bf487a2efe" width= 70%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/44ac4c75-78cd-4144-838e-38bf487a2efe" width= 30%>
 </p>
 
 ### Exemplo de Entrada:
