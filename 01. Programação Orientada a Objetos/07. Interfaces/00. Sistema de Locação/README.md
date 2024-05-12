@@ -6,13 +6,13 @@ exemplos.
 ### Design da camada de domínio
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/9a63f2f8-8c7b-433d-985a-7380c6583f09" width= 50%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/9a63f2f8-8c7b-433d-985a-7380c6583f09" width= 70%>
 </p>
 
 ### Design da camada de serviço
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/d7ebe52a-9aa6-42d6-9532-75eed85df78f" width= 80%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/d7ebe52a-9aa6-42d6-9532-75eed85df78f" width= 70%>
 </p>
 
 ### Exemplo de Entrada:
