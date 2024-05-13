@@ -28,7 +28,10 @@ IPhone, 910.00
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/00.%20Numeros/Numeros/Numeros/Program.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/01.%20Maior/Maior/Maior/Program.cs)
+
+**Entities**
+- [Produto](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/01.%20Maior/Maior/Maior/Entities/Produto.cs)
 
 **Services**
-- [ServicoImpressao](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/00.%20Numeros/Numeros/Numeros/Services/ServicoImpressao.cs)
+- [ServicoCalculo](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/00.%20Numeros/Numeros/Numeros/Services/ServicoImpressao.cs)
