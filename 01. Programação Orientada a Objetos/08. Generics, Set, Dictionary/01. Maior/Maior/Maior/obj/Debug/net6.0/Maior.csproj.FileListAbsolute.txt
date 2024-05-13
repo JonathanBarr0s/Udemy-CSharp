@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\bin\Debug\net6.0\Maior.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\bin\Debug\net6.0\Maior.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\bin\Debug\net6.0\Maior.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\bin\Debug\net6.0\Maior.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\bin\Debug\net6.0\Maior.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\refint\Maior.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\Maior.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\01. Maior\Maior\Maior\obj\Debug\net6.0\ref\Maior.dll
