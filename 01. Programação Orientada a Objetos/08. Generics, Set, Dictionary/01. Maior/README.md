@@ -2,7 +2,7 @@
 
 Uma empresa de consultoria deseja avaliar a performance de produtos, funcionários, dentre outras coisas. Um dos cálculos que ela precisa é encontrar o maior dentre um conjunto de elementos. Fazer um programa que leia um conjunto de N produtos, conforme exemplo, e depois mostre o mais caro deles.
 
-### Serviço de Impressão:
+### Serviço de Cálculo:
 
 <p align="center">
   <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/4cecf507-12c5-4f1e-a2da-3a8f99802387" width= 30%>
