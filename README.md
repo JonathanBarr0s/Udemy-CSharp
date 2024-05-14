@@ -414,6 +414,12 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td align="center">C#</td>
             <td> Fazer um programa que leia um conjunto de N produtos, conforme exemplo, e depois mostre o mais caro deles.
         </td>
+        <tr>
+            <td align="center">Registro de Acesso</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/01.%20Maior">Código</a></td>
+            <td align="center">C#</td>
+            <td> Criar um programa que leia um arquivo de log de acessos de um site e conte quantos usuários distintos acessaram o site.
+        </td>
         </tr>
   </table>
 </div>
