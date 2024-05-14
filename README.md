@@ -428,7 +428,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </td>
         <tr>
             <td align="center">Contagem de Votos</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/03.%20Contando%20Alunos">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/04.%20Contagem%20de%20Votos">Código</a></td>
             <td align="center">C#</td>
             <td> Fazer um programa que lerá registros de votação de um arquivo e gerará um relatório com os totais de votos de cada candidato.
         </td>
