@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\bin\Debug\net6.0\ContagemDeVotos.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\bin\Debug\net6.0\ContagemDeVotos.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\bin\Debug\net6.0\ContagemDeVotos.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\bin\Debug\net6.0\ContagemDeVotos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\bin\Debug\net6.0\ContagemDeVotos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\refint\ContagemDeVotos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ContagemDeVotos.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\04. Contagem de Votos\ContagemDeVotos\ContagemDeVotos\obj\Debug\net6.0\ref\ContagemDeVotos.dll
