@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\bin\Debug\net6.0\RegistroDeAcesso.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\bin\Debug\net6.0\RegistroDeAcesso.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\bin\Debug\net6.0\RegistroDeAcesso.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\bin\Debug\net6.0\RegistroDeAcesso.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\bin\Debug\net6.0\RegistroDeAcesso.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\refint\RegistroDeAcesso.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\RegistroDeAcesso.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\02. Registro de Acesso\RegistroDeAcesso\RegistroDeAcesso\obj\Debug\net6.0\ref\RegistroDeAcesso.dll
