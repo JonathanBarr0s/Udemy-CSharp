@@ -34,7 +34,4 @@ Total students: 6
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/02.%20Registro%20de%20Acesso/RegistroDeAcesso/RegistroDeAcesso/Program.cs)
-
-**Entities**
-- [RegistroLog](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/02.%20Registro%20de%20Acesso/RegistroDeAcesso/RegistroDeAcesso/Entities/RegistroLog.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/03.%20Contando%20Alunos/ContandoAlunos/ContandoAlunos/Program.cs)
