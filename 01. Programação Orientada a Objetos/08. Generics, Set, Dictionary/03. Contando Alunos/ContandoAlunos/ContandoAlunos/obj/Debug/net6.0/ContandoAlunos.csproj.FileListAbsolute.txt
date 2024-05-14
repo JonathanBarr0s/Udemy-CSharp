@@ -1,0 +1,15 @@
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\bin\Debug\net6.0\ContandoAlunos.exe
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\bin\Debug\net6.0\ContandoAlunos.deps.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\bin\Debug\net6.0\ContandoAlunos.runtimeconfig.json
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\bin\Debug\net6.0\ContandoAlunos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\bin\Debug\net6.0\ContandoAlunos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.csproj.AssemblyReference.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.AssemblyInfoInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.AssemblyInfo.cs
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.csproj.CoreCompileInputs.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\refint\ContandoAlunos.dll
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.pdb
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ContandoAlunos.genruntimeconfig.cache
+D:\Programação\Udemy-CSharp\01. Programação Orientada a Objetos\08. Generics, Set, Dictionary\03. Contando Alunos\ContandoAlunos\ContandoAlunos\obj\Debug\net6.0\ref\ContandoAlunos.dll
