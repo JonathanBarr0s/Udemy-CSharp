@@ -450,7 +450,7 @@ Aqui estão todas as atividades que realizei durante o curso:
         </td>
         <tr>
             <td align="center">Filtrando Funcionários</td>
-            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/00.%20Filtrando%20Produtos">Código</a></td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/01.%20Filtrando%20Funcion%C3%A1rios">Código</a></td>
             <td align="center">C#</td>
             <td> Criar um programa que lerá dados de funcionários de um arquivo .csv, exibirá emails de funcionários com salário superior a um valor fornecido pelo usuário e somará os salários dos que têm nome iniciado com 'M'.
         </td>

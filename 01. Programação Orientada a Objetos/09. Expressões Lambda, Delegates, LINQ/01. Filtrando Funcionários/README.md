@@ -43,4 +43,4 @@ Minha resposta:
 - [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/01.%20Filtrando%20Funcion%C3%A1rios/FiltrandoFuncionarios/FiltrandoFuncionarios/Program.cs)
 
 **Entities**
-- [Produto](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/00.%20Filtrando%20Produtos/FiltrandoProdutos/FiltrandoProdutos/Entities/Produto.cs)
+- [Funcionarios](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/01.%20Filtrando%20Funcion%C3%A1rios/FiltrandoFuncionarios/FiltrandoFuncionarios/Entities/Funcionarios.cs)
