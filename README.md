@@ -433,5 +433,21 @@ Aqui estão todas as atividades que realizei durante o curso:
             <td> Fazer um programa que lerá registros de votação de um arquivo e gerará um relatório com os totais de votos de cada candidato.
         </td>
         </tr>
+        <tr>
+            <th colspan="4">Expressões Lambda, Delegates, LINQ</th>
+        </tr>
+        <tr>
+            <th>Exercício</th>
+            <th>Solução</th>
+            <th>Tecnologia</th>
+            <th>Descrição</th>
+        </tr>
+        <tr>
+            <td align="center">Filtrando Produtos</td>
+            <td><a href="https://github.com/JonathanBarr0s/Udemy-CSharp/tree/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/00.%20Numeros">Código</a></td>
+            <td align="center">C#</td>
+            <td> Ler produtos de um arquivo CSV, calcular o preço médio e listar, em ordem decrescente, os nomes dos produtos com preço abaixo da média.
+        </td>
+        </tr>
   </table>
 </div>
