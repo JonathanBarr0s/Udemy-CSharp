@@ -29,7 +29,7 @@ HD Case
 
 Minha resposta:
 
-- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/00.%20Numeros/Numeros/Numeros/Program.cs)
+- [Program](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/00.%20Filtrando%20Produtos/FiltrandoProdutos/FiltrandoProdutos/Program.cs)
 
-**Services**
-- [ServicoImpressao](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/08.%20Generics%2C%20Set%2C%20Dictionary/00.%20Numeros/Numeros/Numeros/Services/ServicoImpressao.cs)
+**Entities**
+- [Produto](https://github.com/JonathanBarr0s/Udemy-CSharp/blob/main/01.%20Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/09.%20Express%C3%B5es%20Lambda%2C%20Delegates%2C%20LINQ/00.%20Filtrando%20Produtos/FiltrandoProdutos/FiltrandoProdutos/Entities/Produto.cs)
