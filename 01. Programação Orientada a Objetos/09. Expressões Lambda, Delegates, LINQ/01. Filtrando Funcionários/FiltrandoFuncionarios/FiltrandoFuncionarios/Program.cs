@@ -1,6 +1,8 @@
 ﻿using System.Globalization;
+using FiltrandoFuncionarios.Entities;
 
-namespace FiltrandoFuncionarios {
+namespace FiltrandoFuncionarios
+{
     internal class Program {
         static void Main(string[] args) {
 
