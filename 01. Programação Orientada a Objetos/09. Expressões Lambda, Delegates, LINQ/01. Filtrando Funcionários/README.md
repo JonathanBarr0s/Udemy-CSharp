@@ -7,7 +7,7 @@ Em seguida mostrar, em ordem alfabética, o email dos funcionários cujo salári
 Mostrar também a soma dos salários dos funcionários cujo nome começa com a letra 'M'.
 
 <p align="center">
-  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/048b44f0-c159-49b1-8aec-6ece1d0374d9" width= 10%>
+  <img src="https://github.com/JonathanBarr0s/Udemy-CSharp/assets/132490863/048b44f0-c159-49b1-8aec-6ece1d0374d9" width= 20%>
 </p>
 
 ### Arquivo de Entrada:
